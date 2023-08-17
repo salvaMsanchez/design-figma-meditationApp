@@ -98,8 +98,8 @@ Para consultar el archivo que contiene el diseño de esta aplicación, puede hac
 ## Fuentes de inspiración
 
 * [Dribble](https://dribbble.com/shots)
-* [Mobbin] (https://mobbin.com/browse/ios/apps?sort=publishedAt)
-* [Behance] (https://www.behance.net)
+* [Mobbin](https://mobbin.com/browse/ios/apps?sort=publishedAt)
+* [Behance](https://www.behance.net)
 
 ---
 
